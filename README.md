@@ -6,7 +6,7 @@ I am a fascinating amalgam of interests and passions that represent me as a vers
            
 
 💻 Junior Front-End Developer [Kodigo](https://kodigo.org/)<br>
-📚 Studying Platzi <br>
+📚 Studying platform [Platzi](https://platzi.com/)<br> 
 📄 Graduate in business administration [Universidad del Quindío](https://www.uniquindio.edu.co/)<br>
 👨‍💻 Manual Tester QA certification [EducationIT](https://api.educacionit.com/pdf/certificados/melissa-trejos-ortiz-894151/61799)<br>
 
