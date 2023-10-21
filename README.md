@@ -1,6 +1,7 @@
 ### Hello World 💜💻 <br>I`m Melissa Trejos Ortiz
 # [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/melissa-trejos-ortiz-501750103)](www.linkedin.com/in/melissa-trejos-ortiz-501750103/)[![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/MeliT0/MeliT0/)](https://github.com/MeliT0/MeliT0/) 
 
+ <img src="./M_neon-removebg-preview.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Logo M_neon.png">
 
 I am a fascinating amalgam of interests and passions that represent me as a versatile person who is passionate about learning and adventure. Some things that could represent me are the spirit of self-improvement, thirst for knowledge, I am a multifaceted adventurer, I am creative and I like art, and something very important is that I love the family union.
            
