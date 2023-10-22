@@ -1,3 +1,5 @@
+ <img src="./Portada de github.png" min-width="100%" max-width="100%" width="100%" height="190px" align="center" alt="portada">
+
 ### Hello World 💜💻 <br>I`m Melissa Trejos Ortiz
 # [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/melissa-trejos-ortiz-501750103)](www.linkedin.com/in/melissa-trejos-ortiz-501750103/)[![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/MeliT0/MeliT0/)](https://github.com/MeliT0/MeliT0/) 
 
