@@ -7,8 +7,7 @@
 
  <img src="./M_neon-removebg-preview.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Logo M_neon.png">
 
-I am a fascinating amalgam of interests and passions that represent me as a versatile person who is passionate about learning and adventure. Some things that could represent me are the spirit of self-improvement, thirst for knowledge, I am a multifaceted adventurer, I am creative and I like art, and something very important is that I love the family union.
-           
+I am a fascinating amalgam of interests and passions that represent me as a versatile person who is passionate about learning and adventure. Some things that could represent me are the spirit of self-improvement, thirst for knowledge, I am a multifaceted adventurer, I am creative and I like art, and something very important is that I love the family union.         
 
 💻 Junior Front-End Developer [Kodigo](https://kodigo.org/)<br>
 📚 Studying platform [Platzi](https://platzi.com/)<br> 
